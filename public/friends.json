@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Aryan Mehta",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "aryan.mehta@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Roommate from university. We used to pull all-nighters before exams. Still keeps me grounded.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Sadia Islam",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sadia.islam@outlook.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["childhood", "close friend"],
+    "bio": "Grew up on the same street. Knows my family like her own. Our friendship spans over 15 years.",
+    "goal": 10,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Williams",
+    "picture": "https://randomuser.me/api/portraits/men/58.jpg",
+    "email": "marcus.w@protonmail.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["work", "mentor"],
+    "bio": "Senior engineer who guided me through my first job. Incredibly sharp and always honest with feedback.",
+    "goal": 21,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 4,
+    "name": "Priya Nair",
+    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "email": "priya.nair@yahoo.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["travel", "college"],
+    "bio": "We backpacked through Southeast Asia together. Spontaneous, creative, and always up for an adventure.",
+    "goal": 14,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 5,
+    "name": "Tanvir Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "email": "tanvir.h@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["close friend", "tech"],
+    "bio": "We met at a hackathon and have been building side projects ever since. Great at keeping each other accountable.",
+    "goal": 7,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 6,
+    "name": "Lena Fischer",
+    "picture": "https://randomuser.me/api/portraits/women/63.jpg",
+    "email": "lena.fischer@web.de",
+    "days_since_contact": 35,
+    "status": "overdue",
+    "tags": ["exchange program", "international"],
+    "bio": "Exchange student from Germany. Taught me so much about patience and a different way of seeing the world.",
+    "goal": 30,
+    "next_due_date": "2025-07-08"
+  },
+  {
+    "id": 7,
+    "name": "Omar Abdullah",
+    "picture": "https://randomuser.me/api/portraits/men/11.jpg",
+    "email": "omar.abdullah@hotmail.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["neighborhood", "childhood"],
+    "bio": "Best friend from school. We drifted apart after moving cities but make real effort to stay connected.",
+    "goal": 10,
+    "next_due_date": "2025-07-19"
+  },
+  {
+    "id": 8,
+    "name": "Nadia Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/women/37.jpg",
+    "email": "nadia.c@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["close friend", "gym"],
+    "bio": "Workout partner turned one of my closest friends. Keeps me disciplined and always shows up when it matters.",
+    "goal": 7,
+    "next_due_date": "2025-07-23"
+  }
+]
