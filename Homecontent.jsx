@@ -21,7 +21,7 @@ const Homecontent = () => {
      <div>
       
       <h1 className=" text-center mt-5 text-xl font-bold">My Friends </h1>
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-5 p-6">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-5  p-6">
         {friends.map((friend) => (
           <NavLink  to={`/FriendsDetails/${friend.id}`} className="bg-white border border-gray-100 rounded-2xl p-5 flex flex-col items-center gap-2 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
             <img src={friend.picture} />

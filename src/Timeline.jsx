@@ -27,12 +27,12 @@ const Timeline = () => {
 
 
        return (
-           <div className='md:w-[1400px] md:mx-auto'>
+           <div className='lg:w-[1400px] lg:mx-auto'>
             <h1 className='text-2xl font-bold mt-5 ml:0 ml-2'>Timeline: </h1>
 
             {/* ৩. ফিল্টার ড্রপডাউন */}
                 <select 
-                    className="select mt-5 border mb-5 border-black w-full  max-w-xs block mx-auto md:mx-0"
+                    className="select mt-5 border mb-5 border-black w-full  max-w-xs block mx-auto lg:mx-0"
                     value={filter}
                     onChange={(e)=>setfilter(e.target.value)}
                    
@@ -45,7 +45,7 @@ const Timeline = () => {
              {
                 displayFilterActivites.map(activity=>{
                     return <div className="md:pb-10"> 
-                       <div className="bg-white   border mt-5 rounded-2xl px-5 py-4 flex items-center gap-4 shadow-sm mb-5 md:m-0 m-5  space-y-4 border-black h-28">
+                       <div className="bg-white   border mt-5 rounded-2xl px-5 py-4 flex items-center gap-4 shadow-sm mb-5 lg:m-0 m-5  space-y-4 border-black h-28">
                         {/* Lucide Icon Section*/}
           <div className="p-3 bg-gray-50 rounded-full">
             {activity.type === 'Call' && <PhoneForwarded className="text-blue-500" size={20} />}
