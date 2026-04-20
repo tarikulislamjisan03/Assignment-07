@@ -46,7 +46,7 @@ const Timeline = () => {
                 displayFilterActivites.map(activity=>{
                     return <div className="md:pb-10"> 
                        <div className="bg-white   border mt-5 rounded-2xl px-5 py-4 flex items-center gap-4 shadow-sm mb-5 md:m-0 m-5  space-y-4 border-black h-28">
-                        {/*Icon Section*/}
+                        {/* Lucide Icon Section*/}
           <div className="p-3 bg-gray-50 rounded-full">
             {activity.type === 'Call' && <PhoneForwarded className="text-blue-500" size={20} />}
             {activity.type === 'Text' && <MessageCircle className="text-green-500" size={20} />}
