@@ -29,10 +29,3 @@ Built with a mobile-first approach, the interface is fully responsive. Using Tai
 
 ---
 
-## 🛠️ Setup & Installation
-
-Follow these steps to run the project locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/keen-keeper.git](https://github.com/your-username/keen-keeper.git)
